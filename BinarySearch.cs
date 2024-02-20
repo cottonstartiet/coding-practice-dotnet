@@ -1,11 +1,3 @@
-// Tree
-// Find in binarty tree
-// Find in sorted 2d array
-// Battleship LLD design
-// Rate Limited LLD
-// Binary Search
-
-
 internal class BinarySearch
 {
   public BinarySearch()
