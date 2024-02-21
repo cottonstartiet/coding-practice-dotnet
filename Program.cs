@@ -1,25 +1,12 @@
-﻿// Tree
-// Find in binarty tree
-// Find in sorted 2d array
-// Battleship LLD design
-// Rate Limited LLD
-// Binary Search
+﻿// Battleship LLD design
+// Rate limiter LLD
+
 using coding_practice_dotnet;
 
 // Binary Search
 // BinarySearch bs = new BinarySearch();
 // Console.WriteLine(bs.Search([1, 2, 3, 4, 5, 6], 5));
 // Console.WriteLine(bs.Search([1, 2, 3, 4, 5, 6], 10));
-
-int[][] array = [
-  [1,2,3],
-  [4,5,6],
-  [7,8,9],
-];
-FindInSortedArray findInSortedArray = new();
-Console.WriteLine(findInSortedArray.FindBinarySearch(array));
-Console.WriteLine(findInSortedArray.FindDfs(array));
-
 
 TreeNode bstRoot4 = new(4);
 TreeNode node1 = new(1);
@@ -35,11 +22,23 @@ node6.Right = node7;
 bstRoot4.Left = node2;
 bstRoot4.Right = node6;
 
-InorderTraversal inorderTraversal = new();
-inorderTraversal.Traverse(bstRoot4);
+// Inorder tarversal
+// InorderTraversal inorderTraversal = new();
+// inorderTraversal.Traverse(bstRoot4);
 
-MaxPathSum maxPathSum = new();
-maxPathSum.FindMaxPathSum(bstRoot4);
+// Find max path sum
+// MaxPathSum maxPathSum = new();
+// Console.WriteLine(maxPathSum.FindMaxPathSum(bstRoot4));
+
+// Find in sorted 2d array
+int[][] array = [
+  [1,2,3],
+  [4,5,6],
+  [7,8,9],
+];
+FindInSortedArray findInSortedArray = new();
+Console.WriteLine(findInSortedArray.FindBinarySearch(array));
+Console.WriteLine(findInSortedArray.FindDfs(array));
 
 
 

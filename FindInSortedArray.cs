@@ -13,12 +13,12 @@ internal class FindInSortedArray
 
   internal bool FindBinarySearch(int[][] array)
   {
-    throw new NotImplementedException();
+
   }
 
   internal bool FindDfs(int[][] array)
   {
-    throw new NotImplementedException();
+    return false;
   }
 }
 
