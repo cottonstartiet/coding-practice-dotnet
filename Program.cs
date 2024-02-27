@@ -37,9 +37,5 @@ int[][] array = [
   [7,8,9],
 ];
 FindInSortedArray findInSortedArray = new();
-Console.WriteLine(findInSortedArray.FindBinarySearch(array));
-Console.WriteLine(findInSortedArray.FindDfs(array));
-
-
-
-
+Console.WriteLine(findInSortedArray.FindBinarySearch(array, 6));
+// Console.WriteLine(findInSortedArray.FindDfs(array));
