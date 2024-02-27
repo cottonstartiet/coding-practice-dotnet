@@ -31,11 +31,11 @@ bstRoot4.Right = node6;
 // Console.WriteLine(maxPathSum.FindMaxPathSum(bstRoot4));
 
 // Find in sorted 2d array
-int[][] array = [
-  [1,2,3],
-  [4,5,6],
-  [7,8,9],
-];
-FindInSortedArray findInSortedArray = new();
-Console.WriteLine(findInSortedArray.FindBinarySearch(array, 6));
-// Console.WriteLine(findInSortedArray.FindDfs(array));
+// int[][] array = [
+//   [1,2,3],
+//   [4,5,6],
+//   [7,8,9],
+// ];
+// FindInSortedArray findInSortedArray = new();
+// Console.WriteLine(findInSortedArray.FindBinarySearch(array, 6));
+// Console.WriteLine(findInSortedArray.FindDfs(array, 3));

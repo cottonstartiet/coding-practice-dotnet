@@ -6,6 +6,7 @@
 // Binary Search
 
 
+
 internal class FindInSortedArray
 {
   public FindInSortedArray()
@@ -50,9 +51,24 @@ internal class FindInSortedArray
     return false;
   }
 
-  internal bool FindDfs(int[][] array)
+  internal bool FindDfs(int[][] array, int target)
   {
-    return false;
+    return FindDfs(array, target, 0, 0);
+  }
+
+  private bool FindDfs(int[][] array, int target, int row, int col)
+  {
+    if (row >= array.Length || col >= array[row].Length || array[row][col] > target)
+    {
+      return false;
+    }
+
+    if (array[row][col] == target)
+    {
+      return true;
+    }
+
+    return FindDfs(array, target, row + 1, col) || FindDfs(array, target, row, col + 1);
   }
 }
 
