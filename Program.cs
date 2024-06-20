@@ -3,6 +3,9 @@
 
 using coding_practice_dotnet;
 
+VirtualFileSystem vfs = new();
+vfs.AddDirectory("root");
+
 // Binary Search
 // BinarySearch bs = new BinarySearch();
 // Console.WriteLine(bs.Search([1, 2, 3, 4, 5, 6], 5));
