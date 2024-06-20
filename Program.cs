@@ -3,9 +3,6 @@
 
 using coding_practice_dotnet;
 
-VirtualFileSystem vfs = new();
-vfs.AddDirectory("root");
-
 // Binary Search
 // BinarySearch bs = new BinarySearch();
 // Console.WriteLine(bs.Search([1, 2, 3, 4, 5, 6], 5));
@@ -44,10 +41,4 @@ vfs.AddDirectory("root");
 // Console.WriteLine(findInSortedArray.FindDfs(array, 3));
 
 VirtualFileSystemCollections vfsc = new();
-vfsc.CreateFile("one.txt", 10, ["personal", "finance", "simple"]);
-vfsc.CreateFile("two.txt", 20, ["personal", "simple"]);
-vfsc.CreateFile("three.txt", 30, ["finance", "simple"]);
-Logger.Log(vfsc.GetTopKCollections(1));
-Logger.Log(vfsc.GetTopKCollections(2));
-Logger.Log(vfsc.GetAllFiles());
-Logger.Log(vfsc.GetTotalSize());
+vfsc.Run();

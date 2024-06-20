@@ -2,9 +2,11 @@
 {
     internal static class Logger
     {
-        internal static void Log(string message) => System.Console.WriteLine(message);
+        internal static void Log(string message) => Console.WriteLine(message);
 
-        internal static void Log(IList<object> values)
+        internal static void Log(int value) => Console.WriteLine(value);
+
+        internal static void Log(IEnumerable<object> values)
         {
             foreach (var value in values)
             {

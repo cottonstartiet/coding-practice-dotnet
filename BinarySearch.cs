@@ -1,9 +1,5 @@
 internal class BinarySearch
 {
-    public BinarySearch()
-    {
-    }
-
     internal int Search(int[] nums, int target)
     {
         int left = 0;

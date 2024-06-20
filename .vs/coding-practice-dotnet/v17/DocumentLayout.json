@@ -1,105 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\findinsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:findinsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\fileconverter\\fileconverterapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:fileconverter\\fileconverterapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\aseemgaurav\\Desktop\\GitHub\\coding-practice-dotnet\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FindInSortedArray.cs",
-              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FindInSortedArray.cs",
-              "RelativeDocumentMoniker": "FindInSortedArray.cs",
-              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FindInSortedArray.cs",
-              "RelativeToolTip": "FindInSortedArray.cs",
-              "ViewState": "AQIAABYAAAAAAACgjWLJvwEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:27:05.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BinarySearch.cs",
-              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\BinarySearch.cs",
-              "RelativeDocumentMoniker": "BinarySearch.cs",
-              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\BinarySearch.cs",
-              "RelativeToolTip": "BinarySearch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:26:21.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FileConverterApp.cs",
-              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileConverter\\FileConverterApp.cs",
-              "RelativeDocumentMoniker": "FileConverter\\FileConverterApp.cs",
-              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileConverter\\FileConverterApp.cs",
-              "RelativeToolTip": "FileConverter\\FileConverterApp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:26:19.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\EventProcessor.cs",
-              "RelativeDocumentMoniker": "EventProcessor.cs",
-              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\EventProcessor.cs",
-              "RelativeToolTip": "EventProcessor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T08:33:12.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:29:38.976Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
