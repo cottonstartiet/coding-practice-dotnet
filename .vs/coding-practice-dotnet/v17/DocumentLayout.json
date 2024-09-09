@@ -1,12 +1,186 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aseemgaurav\\Desktop\\GitHub\\coding-practice-dotnet\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\findinsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:findinsortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\models\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:models\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\filesystemcollections\\virtualfilesystemcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:filesystemcollections\\virtualfilesystemcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\filesystemcollections\\filecollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:filesystemcollections\\filecollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\fileconverter\\fileconverterdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:fileconverter\\fileconverterdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|c:\\users\\aseemgaurav\\desktop\\github\\coding-practice-dotnet\\fileconverter\\fileconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDCCF3E-97A7-4D33-8F52-7D1AF4B2377C}|coding-practice-dotnet.csproj|solutionrelative:fileconverter\\fileconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindInSortedArray.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FindInSortedArray.cs",
+              "RelativeDocumentMoniker": "FindInSortedArray.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FindInSortedArray.cs",
+              "RelativeToolTip": "FindInSortedArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:43:39.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\EventProcessor.cs",
+              "RelativeDocumentMoniker": "EventProcessor.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\EventProcessor.cs",
+              "RelativeToolTip": "EventProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:43:32.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "BinarySearch.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\BinarySearch.cs",
+              "RelativeToolTip": "BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:43:31.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T05:43:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\Models\\TreeNode.cs",
+              "RelativeDocumentMoniker": "Models\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\Models\\TreeNode.cs",
+              "RelativeToolTip": "Models\\TreeNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:43:17.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VirtualFileSystemCollections.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileSystemCollections\\VirtualFileSystemCollections.cs",
+              "RelativeDocumentMoniker": "FileSystemCollections\\VirtualFileSystemCollections.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileSystemCollections\\VirtualFileSystemCollections.cs",
+              "RelativeToolTip": "FileSystemCollections\\VirtualFileSystemCollections.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:42:43.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileCollectible.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileSystemCollections\\FileCollectible.cs",
+              "RelativeDocumentMoniker": "FileSystemCollections\\FileCollectible.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileSystemCollections\\FileCollectible.cs",
+              "RelativeToolTip": "FileSystemCollections\\FileCollectible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:42:41.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileConverter.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileConverter\\FileConverter.cs",
+              "RelativeDocumentMoniker": "FileConverter\\FileConverter.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileConverter\\FileConverter.cs",
+              "RelativeToolTip": "FileConverter\\FileConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:34:13.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileConverterDriver.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileConverter\\FileConverterDriver.cs",
+              "RelativeDocumentMoniker": "FileConverter\\FileConverterDriver.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\FileConverter\\FileConverterDriver.cs",
+              "RelativeToolTip": "FileConverter\\FileConverterDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:32:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aseemgaurav\\Desktop\\github\\coding-practice-dotnet\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:29:34.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

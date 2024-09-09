@@ -2,9 +2,9 @@
 {
     public enum FileType
     {
-        HTML,
-        PDF,
-        TXT,
-        WORD
+        Html,
+        Pdf,
+        Txt,
+        Word
     }
 }
