@@ -41,6 +41,13 @@
 //VirtualFileSystemCollections vfsc = new();
 //vfsc.Run();
 
-using coding_practice_dotnet.FileConverter;
+//using coding_practice_dotnet.FileConverter;
 
-FileConverterDriver.Run();
+//FileConverterDriver.Run();
+
+using coding_practice_dotnet.MetricConversion;
+
+MetricConverter converter = new();
+converter.AddConversion("m", "ft", 3.281);
+Console.WriteLine(converter.Convert("m", "ft", 1));
+Console.WriteLine(converter.Convert("ft", "m", 1));
