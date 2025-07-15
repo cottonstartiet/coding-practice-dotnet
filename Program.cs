@@ -1,6 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-// DSA Questions
+﻿// DSA Questions
+// 2 Sum - Given an array of integers, find two numbers such that they add up to a specific target number.
+// 3 Sum - Given an array of integers, find all unique triplets that add up to a specific target number.
 // String Compression - ["a","a","b","b","c","c","c"] should return 6 as ["a","2","b","2","c","3"]
 // Move 0s to front in an array
 // Find element in sorted 2D array
@@ -35,8 +35,8 @@ Input: keyboard = "abcdefghijklmnopqrstuvwxy", text = "cba"
 Output: 4
 */
 /**
- * Given a wall, which is made up of two types of bricks (Porus / Non-Porous).
-Porus bricks allow water to pass through them. Non-Porous won't. 
+ * Given a wall, which is made up of two types of bricks (pores / Non-Porous).
+Pores bricks allow water to pass through them. Non-Porous won't. 
 Find whether water reaches to ground, if there is any rainfall.
 Water can flow from top to bottom, diagonally, horizontally as well.
 Only flowing from bottom to top is not possible.
