@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Keyboard distance
+using coding_practice_dotnet.DSA;
+
+Console.WriteLine($"Typing distance: {KeyboardDistance.CalculateTime("cba")}");
+Console.WriteLine($"Typing distance: {KeyboardDistance.CalculateTime("zyx")}");
