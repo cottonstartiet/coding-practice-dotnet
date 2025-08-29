@@ -8,7 +8,7 @@ using coding_practice_dotnet.DSA;
 // Console.WriteLine($"Is two sum: {TwoSum.IsTwoSum([1, 2, 3, 4, 5], 9)}");
 // Console.WriteLine($"Is two sum: {TwoSum.IsTwoSum([1, 2, 3, 4, 5], 10)}");
 
-SimpleMinHeap minHeap = new SimpleMinHeap();
+SimpleMinHeap minHeap = new();
 minHeap.AddItem(new Student("aseem", 1));
 minHeap.AddItem(new Student("gaurav", 2));
 minHeap.AddItem(new Student("jyoti", 5));
